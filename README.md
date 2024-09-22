@@ -1,8 +1,5 @@
 # Awesome-Papers-for-Knowledge-Distillation
 
-# Awesome Papers for Weakly Supervised Semantic Segmentation
-
-
 ## 2024
 | Title | Abbreviation | Venue | Code |
 |-----|-----|-----|-----|
